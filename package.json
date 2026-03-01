@@ -1,0 +1,12 @@
+{
+  "name": "ms-tech-ventures",
+  "version": "1.0.0",
+  "description": "M's Tech Ventures - Professional Web Development Agency",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site ready for deployment'"
+  },
+  "keywords": ["web development", "design", "technology"],
+  "author": "M's Tech Ventures",
+  "license": "ISC"
+}
