@@ -1,4 +1,11 @@
 {
-  "buildDir": ".",
-  "staticDir": "."
+  "build": {
+    "command": "echo 'Static site ready for deployment'"
+  },
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "index.html"
+    }
+  ]
 }
